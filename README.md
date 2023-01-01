@@ -6,3 +6,9 @@
 * getNodeAt(index)
 * clear()
 * printAll()
+
+# Stack
+* push(data)
+* pop()
+* peek()
+* isEmpty()
