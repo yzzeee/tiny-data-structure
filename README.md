@@ -1,4 +1,4 @@
-# LinkedList
+# LinkedList, DoubleLinkedList
 * insertAt(index, data)
 * insertLast(data)
 * deleteAt(index)
