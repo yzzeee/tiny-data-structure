@@ -32,3 +32,7 @@
 * preOrderTraversal(tree) - 전위 순회
 * inOrderTraversal(tree) - 중위 순회
 * postOrderTraversal(tree) - 후위 순회
+
+# BinarySearchTree
+* insert(data) - 삽입
+* search(target) - 탐색
